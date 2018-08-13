@@ -1,0 +1,1 @@
+# gliffy-icons-for-yed
