@@ -18,7 +18,7 @@
   <graph edgedefault="directed" id="G">
     <node id="n0">
       <data key="d3" xml:space="preserve"><![CDATA[6177b499-def2-468f-b2ca-17026de65562]]></data>
-      <data key="d4" xml:space="preserve"/>
+      <data key="d4"><![CDATA[Antenne satellite]]></data>
       <data key="d7">
         <y:ImageNode>
           <y:Geometry height="55.0" width="43.0" x="0.0" y="32.5"/>
@@ -31,7 +31,7 @@
     </node>
     <node id="n1">
       <data key="d3" xml:space="preserve"><![CDATA[9490335c-60b8-4862-a1c6-d743a256b0fc]]></data>
-      <data key="d4" xml:space="preserve"/>
+      <data key="d4"><![CDATA[Backup]]></data>
       <data key="d7">
         <y:ImageNode>
           <y:Geometry height="33.0" width="61.0" x="73.0" y="43.5"/>
@@ -44,7 +44,7 @@
     </node>
     <node id="n2">
       <data key="d3" xml:space="preserve"><![CDATA[7e17f1bc-9966-4a10-8ce3-b2504bce96ef]]></data>
-      <data key="d4" xml:space="preserve"/>
+      <data key="d4"><![CDATA[Cloud]]></data>
       <data key="d7">
         <y:ImageNode>
           <y:Geometry height="39.0" width="66.0" x="164.0" y="40.5"/>
@@ -57,7 +57,7 @@
     </node>
     <node id="n3">
       <data key="d3" xml:space="preserve"><![CDATA[30292db7-3514-422e-ac57-87cd60479fe5]]></data>
-      <data key="d4" xml:space="preserve"/>
+      <data key="d4"><![CDATA[Communicateur]]></data>
       <data key="d7">
         <y:ImageNode>
           <y:Geometry height="60.0" width="41.0" x="260.0" y="30.0"/>
@@ -70,7 +70,7 @@
     </node>
     <node id="n4">
       <data key="d3" xml:space="preserve"><![CDATA[9b245407-207b-487d-a9bf-d9af50fe2087]]></data>
-      <data key="d4" xml:space="preserve"/>
+      <data key="d4"><![CDATA[Commutateur]]></data>
       <data key="d7">
         <y:ImageNode>
           <y:Geometry height="37.0" width="65.0" x="331.0" y="41.5"/>
@@ -83,7 +83,7 @@
     </node>
     <node id="n5">
       <data key="d3" xml:space="preserve"><![CDATA[65a5de06-b082-439a-aec9-208102e61b90]]></data>
-      <data key="d4" xml:space="preserve"/>
+      <data key="d4"><![CDATA[Computer]]></data>
       <data key="d7">
         <y:ImageNode>
           <y:Geometry height="46.0" width="75.0" x="426.0" y="37.0"/>
@@ -96,7 +96,7 @@
     </node>
     <node id="n6">
       <data key="d3" xml:space="preserve"><![CDATA[8efc480d-73f9-4e02-9817-79fc6dc21cfb]]></data>
-      <data key="d4" xml:space="preserve"/>
+      <data key="d4"><![CDATA[Console]]></data>
       <data key="d7">
         <y:ImageNode>
           <y:Geometry height="57.0" width="55.0" x="531.0" y="31.5"/>
@@ -109,7 +109,7 @@
     </node>
     <node id="n7">
       <data key="d3" xml:space="preserve"><![CDATA[5e29bcae-4450-4402-b2f0-0ed89cfce7f3]]></data>
-      <data key="d4" xml:space="preserve"/>
+      <data key="d4"><![CDATA[Database]]></data>
       <data key="d7">
         <y:ImageNode>
           <y:Geometry height="55.0" width="40.0" x="616.0" y="32.5"/>
@@ -122,7 +122,7 @@
     </node>
     <node id="n8">
       <data key="d3" xml:space="preserve"><![CDATA[d924d663-51ba-419c-9c59-4bb214eee9c5]]></data>
-      <data key="d4" xml:space="preserve"/>
+      <data key="d4"><![CDATA[External HDD]]></data>
       <data key="d7">
         <y:ImageNode>
           <y:Geometry height="43.0" width="53.0" x="686.0" y="38.5"/>
@@ -135,7 +135,7 @@
     </node>
     <node id="n9">
       <data key="d3" xml:space="preserve"><![CDATA[8dbdec34-ea6f-459c-9c12-c8f21f89692e]]></data>
-      <data key="d4" xml:space="preserve"/>
+      <data key="d4"><![CDATA[Fax]]></data>
       <data key="d7">
         <y:ImageNode>
           <y:Geometry height="39.0" width="59.0" x="769.0" y="40.5"/>
@@ -148,7 +148,7 @@
     </node>
     <node id="n10">
       <data key="d3" xml:space="preserve"><![CDATA[83209cd7-bc4f-4cc2-8ffa-c8fc0978ee29]]></data>
-      <data key="d4" xml:space="preserve"/>
+      <data key="d4"><![CDATA[Firewall]]></data>
       <data key="d7">
         <y:ImageNode>
           <y:Geometry height="58.0" width="58.0" x="0.0" y="123.5"/>
@@ -161,7 +161,7 @@
     </node>
     <node id="n11">
       <data key="d3" xml:space="preserve"><![CDATA[90868eef-bee6-4f04-8d1e-6b60af2bff62]]></data>
-      <data key="d4" xml:space="preserve"/>
+      <data key="d4"><![CDATA[Hub]]></data>
       <data key="d7">
         <y:ImageNode>
           <y:Geometry height="29.0" width="58.0" x="88.0" y="138.0"/>
@@ -174,7 +174,7 @@
     </node>
     <node id="n12">
       <data key="d3" xml:space="preserve"><![CDATA[2d8fc709-5872-4a92-b655-7a12467ee090]]></data>
-      <data key="d4" xml:space="preserve"/>
+      <data key="d4"><![CDATA[iPhone]]></data>
       <data key="d7">
         <y:ImageNode>
           <y:Geometry height="52.0" width="30.0" x="176.0" y="126.5"/>
@@ -187,7 +187,7 @@
     </node>
     <node id="n13">
       <data key="d3" xml:space="preserve"><![CDATA[faa522c4-6f4e-4e59-91e3-187bbd9cb7a1]]></data>
-      <data key="d4" xml:space="preserve"/>
+      <data key="d4"><![CDATA[Laptop]]></data>
       <data key="d7">
         <y:ImageNode>
           <y:Geometry height="42.0" width="70.0" x="236.0" y="131.5"/>
@@ -200,7 +200,7 @@
     </node>
     <node id="n14">
       <data key="d3" xml:space="preserve"><![CDATA[c68bf28d-abc1-4bff-89cd-01fc723d0a9d]]></data>
-      <data key="d4" xml:space="preserve"/>
+      <data key="d4"><![CDATA[Mac]]></data>
       <data key="d7">
         <y:ImageNode>
           <y:Geometry height="56.0" width="59.0" x="336.0" y="124.5"/>
@@ -213,7 +213,7 @@
     </node>
     <node id="n15">
       <data key="d3" xml:space="preserve"><![CDATA[e536a801-c77e-4908-9f21-b72e487a4af2]]></data>
-      <data key="d4" xml:space="preserve"/>
+      <data key="d4"><![CDATA[Mainframe]]></data>
       <data key="d7">
         <y:ImageNode>
           <y:Geometry height="65.0" width="65.0" x="425.0" y="120.0"/>
@@ -226,7 +226,7 @@
     </node>
     <node id="n16">
       <data key="d3" xml:space="preserve"><![CDATA[467d770d-422e-4651-b118-021a2c37b129]]></data>
-      <data key="d4" xml:space="preserve"/>
+      <data key="d4"><![CDATA[Modem]]></data>
       <data key="d7">
         <y:ImageNode>
           <y:Geometry height="22.0" width="57.0" x="520.0" y="141.5"/>
@@ -239,7 +239,7 @@
     </node>
     <node id="n17">
       <data key="d3" xml:space="preserve"><![CDATA[003661a8-4d38-41a5-a3cc-1e7f57a600d9]]></data>
-      <data key="d4" xml:space="preserve"/>
+      <data key="d4"><![CDATA[Monitor]]></data>
       <data key="d7">
         <y:ImageNode>
           <y:Geometry height="46.0" width="52.0" x="607.0" y="129.5"/>
@@ -252,7 +252,7 @@
     </node>
     <node id="n18">
       <data key="d3" xml:space="preserve"><![CDATA[a36f8ba0-3870-413d-bf27-449f152bf19f]]></data>
-      <data key="d4" xml:space="preserve"/>
+      <data key="d4"><![CDATA[Phone1]]></data>
       <data key="d7">
         <y:ImageNode>
           <y:Geometry height="43.0" width="56.0" x="689.0" y="131.0"/>
@@ -265,7 +265,7 @@
     </node>
     <node id="n19">
       <data key="d3" xml:space="preserve"><![CDATA[27a0586c-3079-41e7-aa1e-fd0aa6285f85]]></data>
-      <data key="d4" xml:space="preserve"/>
+      <data key="d4"><![CDATA[Phone2]]></data>
       <data key="d7">
         <y:ImageNode>
           <y:Geometry height="52.0" width="50.0" x="775.0" y="126.5"/>
@@ -278,7 +278,7 @@
     </node>
     <node id="n20">
       <data key="d3" xml:space="preserve"><![CDATA[9222d7ef-6e27-45b8-87f7-958ebe494aa6]]></data>
-      <data key="d4" xml:space="preserve"/>
+      <data key="d4"><![CDATA[Photocopieuse]]></data>
       <data key="d7">
         <y:ImageNode>
           <y:Geometry height="64.0" width="67.0" x="0.0" y="215.5"/>
@@ -291,7 +291,7 @@
     </node>
     <node id="n21">
       <data key="d3" xml:space="preserve"><![CDATA[596472a1-7753-442c-a207-685b8c742db5]]></data>
-      <data key="d4" xml:space="preserve"/>
+      <data key="d4"><![CDATA[Printer]]></data>
       <data key="d7">
         <y:ImageNode>
           <y:Geometry height="52.0" width="55.0" x="97.0" y="221.5"/>
@@ -304,7 +304,7 @@
     </node>
     <node id="n22">
       <data key="d3" xml:space="preserve"><![CDATA[6f1b0753-3ebc-473b-97c2-0d88a0155b83]]></data>
-      <data key="d4" xml:space="preserve"/>
+      <data key="d4"><![CDATA[Rack]]></data>
       <data key="d7">
         <y:ImageNode>
           <y:Geometry height="65.0" width="31.0" x="182.0" y="215.0"/>
@@ -317,7 +317,7 @@
     </node>
     <node id="n23">
       <data key="d3" xml:space="preserve"><![CDATA[e98a3360-23b9-4dd8-ac27-7c1e68e8017c]]></data>
-      <data key="d4" xml:space="preserve"/>
+      <data key="d4"><![CDATA[Rack server 1u]]></data>
       <data key="d7">
         <y:ImageNode>
           <y:Geometry height="17.0" width="67.0" x="243.0" y="239.0"/>
@@ -330,7 +330,7 @@
     </node>
     <node id="n24">
       <data key="d3" xml:space="preserve"><![CDATA[cb8e4cf3-3e71-46d3-b582-98d83da1355d]]></data>
-      <data key="d4" xml:space="preserve"/>
+      <data key="d4"><![CDATA[Rack server 4u]]></data>
       <data key="d7">
         <y:ImageNode>
           <y:Geometry height="31.0" width="66.0" x="340.0" y="232.0"/>
@@ -343,7 +343,7 @@
     </node>
     <node id="n25">
       <data key="d3" xml:space="preserve"><![CDATA[1817f7e0-f8d8-40f7-b15f-ce7de83e6a18]]></data>
-      <data key="d4" xml:space="preserve"/>
+      <data key="d4"><![CDATA[Router]]></data>
       <data key="d7">
         <y:ImageNode>
           <y:Geometry height="37.0" width="66.0" x="436.0" y="229.0"/>
@@ -356,7 +356,7 @@
     </node>
     <node id="n26">
       <data key="d3" xml:space="preserve"><![CDATA[d355af8d-032a-4432-8163-0e928bf116ca]]></data>
-      <data key="d4" xml:space="preserve"/>
+      <data key="d4"><![CDATA[Satellite]]></data>
       <data key="d7">
         <y:ImageNode>
           <y:Geometry height="62.0" width="61.0" x="532.0" y="216.5"/>
@@ -369,7 +369,7 @@
     </node>
     <node id="n27">
       <data key="d3" xml:space="preserve"><![CDATA[20c96940-9b0a-43d3-8066-de828f4ab53d]]></data>
-      <data key="d4" xml:space="preserve"/>
+      <data key="d4"><![CDATA[Scanner]]></data>
       <data key="d7">
         <y:ImageNode>
           <y:Geometry height="43.0" width="57.0" x="623.0" y="226.0"/>
@@ -382,7 +382,7 @@
     </node>
     <node id="n28">
       <data key="d3" xml:space="preserve"><![CDATA[0b25a6f5-4a3c-49bb-832c-9d26e82aa491]]></data>
-      <data key="d4" xml:space="preserve"/>
+      <data key="d4"><![CDATA[Screen]]></data>
       <data key="d7">
         <y:ImageNode>
           <y:Geometry height="60.0" width="54.0" x="710.0" y="217.5"/>
@@ -395,7 +395,7 @@
     </node>
     <node id="n29">
       <data key="d3" xml:space="preserve"><![CDATA[9d9c5ee8-3417-4aff-870d-18bb664b48fd]]></data>
-      <data key="d4" xml:space="preserve"/>
+      <data key="d4"><![CDATA[Server]]></data>
       <data key="d7">
         <y:ImageNode>
           <y:Geometry height="59.0" width="37.0" x="794.0" y="218.0"/>
@@ -408,7 +408,7 @@
     </node>
     <node id="n30">
       <data key="d3" xml:space="preserve"><![CDATA[1bfc62a2-9ddf-4929-8bc4-31fe221464c9]]></data>
-      <data key="d4" xml:space="preserve"/>
+      <data key="d4"><![CDATA[Server (database)]]></data>
       <data key="d7">
         <y:ImageNode>
           <y:Geometry height="65.0" width="45.0" x="0.0" y="310.0"/>
@@ -421,7 +421,7 @@
     </node>
     <node id="n31">
       <data key="d3" xml:space="preserve"><![CDATA[124382cc-9484-410d-a26e-239d1a46a234]]></data>
-      <data key="d4" xml:space="preserve"/>
+      <data key="d4"><![CDATA[Server (firewall)]]></data>
       <data key="d7">
         <y:ImageNode>
           <y:Geometry height="65.0" width="45.0" x="75.0" y="310.0"/>
@@ -434,7 +434,7 @@
     </node>
     <node id="n32">
       <data key="d3" xml:space="preserve"><![CDATA[bbc2ce32-2bdc-4d34-933c-d3ac46b7d1bb]]></data>
-      <data key="d4" xml:space="preserve"/>
+      <data key="d4"><![CDATA[Server (mail)]]></data>
       <data key="d7">
         <y:ImageNode>
           <y:Geometry height="65.0" width="45.0" x="150.0" y="310.0"/>
@@ -447,7 +447,7 @@
     </node>
     <node id="n33">
       <data key="d3" xml:space="preserve"><![CDATA[e920e7e3-28ea-4f0c-9a36-cf684c50acc8]]></data>
-      <data key="d4" xml:space="preserve"/>
+      <data key="d4"><![CDATA[Server (web)]]></data>
       <data key="d7">
         <y:ImageNode>
           <y:Geometry height="65.0" width="44.0" x="225.0" y="310.0"/>
@@ -460,7 +460,7 @@
     </node>
     <node id="n34">
       <data key="d3" xml:space="preserve"><![CDATA[8ec128cf-f99d-4350-bcb3-e476993e57a7]]></data>
-      <data key="d4" xml:space="preserve"/>
+      <data key="d4"><![CDATA[Smartphone]]></data>
       <data key="d7">
         <y:ImageNode>
           <y:Geometry height="56.0" width="33.0" x="299.0" y="314.5"/>
@@ -473,7 +473,7 @@
     </node>
     <node id="n35">
       <data key="d3" xml:space="preserve"><![CDATA[5febf628-1efc-42a7-9567-06d3ac37ca23]]></data>
-      <data key="d4" xml:space="preserve"/>
+      <data key="d4"><![CDATA[Sockets]]></data>
       <data key="d7">
         <y:ImageNode>
           <y:Geometry height="57.0" width="39.0" x="362.0" y="314.0"/>
@@ -486,7 +486,7 @@
     </node>
     <node id="n36">
       <data key="d3" xml:space="preserve"><![CDATA[b44bd93c-994d-49f1-bb56-3864685264de]]></data>
-      <data key="d4" xml:space="preserve"/>
+      <data key="d4"><![CDATA[Stereo]]></data>
       <data key="d7">
         <y:ImageNode>
           <y:Geometry height="43.0" width="59.0" x="431.0" y="321.0"/>
@@ -499,7 +499,7 @@
     </node>
     <node id="n37">
       <data key="d3" xml:space="preserve"><![CDATA[63b11fce-0c24-49ed-97e3-a6a75bab8314]]></data>
-      <data key="d4" xml:space="preserve"/>
+      <data key="d4"><![CDATA[Subwoofer]]></data>
       <data key="d7">
         <y:ImageNode>
           <y:Geometry height="49.0" width="44.0" x="520.0" y="318.0"/>
@@ -512,7 +512,7 @@
     </node>
     <node id="n38">
       <data key="d3" xml:space="preserve"><![CDATA[809fe81e-e1f4-4255-8e50-7ab6ff4eac80]]></data>
-      <data key="d4" xml:space="preserve"/>
+      <data key="d4"><![CDATA[TV (CRT)]]></data>
       <data key="d7">
         <y:ImageNode>
           <y:Geometry height="57.0" width="57.0" x="594.0" y="314.0"/>
@@ -525,7 +525,7 @@
     </node>
     <node id="n39">
       <data key="d3" xml:space="preserve"><![CDATA[1a174807-fa0c-4462-be3e-3d84a1e2fae3]]></data>
-      <data key="d4" xml:space="preserve"/>
+      <data key="d4"><![CDATA[TV (flat)]]></data>
       <data key="d7">
         <y:ImageNode>
           <y:Geometry height="55.0" width="68.0" x="681.0" y="315.0"/>
@@ -538,7 +538,7 @@
     </node>
     <node id="n40">
       <data key="d3" xml:space="preserve"><![CDATA[da565c73-9c7f-4e52-a33b-46fa1e1f9628]]></data>
-      <data key="d4" xml:space="preserve"/>
+      <data key="d4"><![CDATA[USB]]></data>
       <data key="d7">
         <y:ImageNode>
           <y:Geometry height="58.0" width="58.0" x="779.0" y="313.5"/>
@@ -551,7 +551,7 @@
     </node>
     <node id="n41">
       <data key="d3" xml:space="preserve"><![CDATA[31722fe7-ba05-47f7-b9fc-0718a4984cd7]]></data>
-      <data key="d4" xml:space="preserve"/>
+      <data key="d4"><![CDATA[User (boss)]]></data>
       <data key="d7">
         <y:ImageNode>
           <y:Geometry height="46.0" width="36.0" x="0.0" y="428.5"/>
@@ -564,7 +564,7 @@
     </node>
     <node id="n42">
       <data key="d3" xml:space="preserve"><![CDATA[e5fc872e-3a33-4af1-8845-780b86ad8af6]]></data>
-      <data key="d4" xml:space="preserve"/>
+      <data key="d4"><![CDATA[User (female)]]></data>
       <data key="d7">
         <y:ImageNode>
           <y:Geometry height="46.0" width="36.0" x="66.0" y="428.5"/>
@@ -577,7 +577,7 @@
     </node>
     <node id="n43">
       <data key="d3" xml:space="preserve"><![CDATA[71d9faa0-88ed-4d5a-af2c-8d8982483158]]></data>
-      <data key="d4" xml:space="preserve"/>
+      <data key="d4"><![CDATA[User (group)]]></data>
       <data key="d7">
         <y:ImageNode>
           <y:Geometry height="45.0" width="66.0" x="132.0" y="429.0"/>
@@ -590,7 +590,7 @@
     </node>
     <node id="n44">
       <data key="d3" xml:space="preserve"><![CDATA[29b4f626-228a-4a26-856c-7265d10b924a]]></data>
-      <data key="d4" xml:space="preserve"/>
+      <data key="d4"><![CDATA[User (male)]]></data>
       <data key="d7">
         <y:ImageNode>
           <y:Geometry height="46.0" width="36.0" x="228.0" y="428.5"/>
@@ -603,7 +603,7 @@
     </node>
     <node id="n45">
       <data key="d3" xml:space="preserve"><![CDATA[3a18d5fa-fdc8-4ec8-ac84-e2f4b8a90e42]]></data>
-      <data key="d4" xml:space="preserve"/>
+      <data key="d4"><![CDATA[Videoprojector]]></data>
       <data key="d7">
         <y:ImageNode>
           <y:Geometry height="27.0" width="68.0" x="294.0" y="438.0"/>
@@ -616,7 +616,7 @@
     </node>
     <node id="n46">
       <data key="d3" xml:space="preserve"><![CDATA[5149ba9c-acd9-4f32-ad05-aa6f04d2154a]]></data>
-      <data key="d4" xml:space="preserve"/>
+      <data key="d4"><![CDATA[Wireless modem]]></data>
       <data key="d7">
         <y:ImageNode>
           <y:Geometry height="34.0" width="59.0" x="392.0" y="434.5"/>
@@ -629,7 +629,7 @@
     </node>
     <node id="n47">
       <data key="d3" xml:space="preserve"><![CDATA[75f5a5fa-4501-49e8-83f7-2d900da9fdfe]]></data>
-      <data key="d4" xml:space="preserve"/>
+      <data key="d4"><![CDATA[Woofer]]></data>
       <data key="d7">
         <y:ImageNode>
           <y:Geometry height="52.0" width="40.0" x="481.0" y="425.5"/>
@@ -642,7 +642,7 @@
     </node>
     <node id="n48">
       <data key="d3" xml:space="preserve"><![CDATA[4035c2c0-1f0d-43f4-8860-2a1d2aaa8441]]></data>
-      <data key="d4" xml:space="preserve"/>
+      <data key="d4"><![CDATA[UPS]]></data>
       <data key="d7">
         <y:ImageNode>
           <y:Geometry height="93.0" width="88.0" x="551.0" y="405.0"/>
@@ -655,7 +655,7 @@
     </node>
     <node id="n49">
       <data key="d3" xml:space="preserve"><![CDATA[7a75c66f-a057-44c2-a982-d7fc92082927]]></data>
-      <data key="d4" xml:space="preserve"/>
+      <data key="d4"><![CDATA[Webcam]]></data>
       <data key="d7">
         <y:ImageNode>
           <y:Geometry height="78.0" width="71.0" x="669.0" y="412.5"/>
@@ -668,7 +668,7 @@
     </node>
     <node id="n50">
       <data key="d3" xml:space="preserve"><![CDATA[34ad7f7f-8bd2-4411-8563-e6382454eabe]]></data>
-      <data key="d4" xml:space="preserve"/>
+      <data key="d4"><![CDATA[Server (virtual machine)]]></data>
       <data key="d7">
         <y:ImageNode>
           <y:Geometry height="83.0" width="53.0" x="770.0" y="410.0"/>
